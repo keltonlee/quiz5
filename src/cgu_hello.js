@@ -1,5 +1,4 @@
-const styleArgument = { fontSize: '100px', color: 'red' };
 const HelloCGU=()=>{
-    return <h1 style = { styleArgument } > hello CGU!! </h1>;
-    }
-export default HelloCGU;
+    return <h1 > hello CGU!! </h1>;
+   }
+   export default HelloCGU;
